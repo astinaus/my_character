@@ -92,7 +92,6 @@
   background: #000000;
   border-radius: 95.5px 250px 150px 150px;
   transform: matrix(-1, 0, 0, 1, 0, 0);
-  animation: eye-scale ;
 }
 
 .eye-left-2 {
